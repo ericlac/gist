@@ -16,12 +16,11 @@ Une graine = un concentré + un potentiel
 * _concentré_ : synthétique et compact 
 * _potentiel_ : actualisé en fonction des usages
 
-GIST définit 11 types de graines :
+GIST définit 10 types de graines :
 * 1 de dimension 1, le Concept
 * 9, soit 3 x 3, de dimension 2, pour définir « ki-fé-koi »
-* 1 de dimension 3 ou +, le Schema
 
-Les 11 types de graines partagent la même structure.
+Les 10 types de graines partagent la même structure.
 
 ### « ki-fé-koi »
 
@@ -35,7 +34,11 @@ Exemple : Person = Acteur
 
 ### Relations entre Graines
 
-Les relations entre graines sont non typées et non orientées.
+GIST définit 2 types de relations :
+* l'association, pour créer des graphes
+* l'inclusion, pour créer des listes et hiérarchies
+
+Les relations d'association entre graines sont non typées et non orientées.
 Cela permet de simplifier au maximum la pose et le retrait des liens.
 
 ### « Schémas de Transformations »
